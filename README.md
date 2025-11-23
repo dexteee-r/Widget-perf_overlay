@@ -224,7 +224,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 ## 👤 Auteur
 
-**Votre Nom** - [@dexteee-r](https://github.com/dexteee-r)
+[@dexteee-r](https://github.com/dexteee-r)
 
 ---
 
